@@ -10,7 +10,14 @@ in various aspects of their post-launch market research and is relevant for a lo
 The solution applied here is a NLP based approach which can be understood through the code mentioned in the repository.
 
 ## Data Collection
-The data contains samples of text. This text could potentially contain one or more drug mentions. Each row contained is a unique
+The data source was AnalyticsVidhya where the data contains samples of text. This text could potentially contain one or more drug mentions. Each row contained is a unique
 combination of the text and the drug mention. Note: The same text could also have different sentiments for a different drug.
 
 ## Tech Stack Used 
+Environment : Python3
+1. Keras
+2. Numpy
+3. Tensorflow
+4. Pandas
+5. Nltk
+6. String
